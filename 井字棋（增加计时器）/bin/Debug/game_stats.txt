@@ -1,0 +1,3 @@
+HumanWins:1
+ComputerWins:1
+Draws:1

@@ -1,0 +1,9 @@
+D:\code\井字棋\井字棋（增加计时器）\obj\Debug\井字棋（增加计时器）.csproj.AssemblyReference.cache
+D:\code\井字棋\井字棋（增加计时器）\obj\Debug\井字棋_增加计时器_.Properties.Resources.resources
+D:\code\井字棋\井字棋（增加计时器）\obj\Debug\井字棋（增加计时器）.csproj.GenerateResource.cache
+D:\code\井字棋\井字棋（增加计时器）\obj\Debug\井字棋（增加计时器）.csproj.CoreCompileInputs.cache
+D:\code\井字棋\井字棋（增加计时器）\bin\Debug\井字棋（增加计时器）.exe.config
+D:\code\井字棋\井字棋（增加计时器）\bin\Debug\井字棋（增加计时器）.exe
+D:\code\井字棋\井字棋（增加计时器）\bin\Debug\井字棋（增加计时器）.pdb
+D:\code\井字棋\井字棋（增加计时器）\obj\Debug\井字棋（增加计时器）.exe
+D:\code\井字棋\井字棋（增加计时器）\obj\Debug\井字棋（增加计时器）.pdb
