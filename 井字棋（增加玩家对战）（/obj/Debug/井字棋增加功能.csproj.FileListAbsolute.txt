@@ -1,0 +1,9 @@
+D:\code\井字棋\井字棋增加功能\bin\Debug\井字棋增加功能.exe.config
+D:\code\井字棋\井字棋增加功能\bin\Debug\井字棋增加功能.exe
+D:\code\井字棋\井字棋增加功能\bin\Debug\井字棋增加功能.pdb
+D:\code\井字棋\井字棋增加功能\obj\Debug\井字棋增加功能.csproj.AssemblyReference.cache
+D:\code\井字棋\井字棋增加功能\obj\Debug\井字棋增加功能.Properties.Resources.resources
+D:\code\井字棋\井字棋增加功能\obj\Debug\井字棋增加功能.csproj.GenerateResource.cache
+D:\code\井字棋\井字棋增加功能\obj\Debug\井字棋增加功能.csproj.CoreCompileInputs.cache
+D:\code\井字棋\井字棋增加功能\obj\Debug\井字棋增加功能.exe
+D:\code\井字棋\井字棋增加功能\obj\Debug\井字棋增加功能.pdb

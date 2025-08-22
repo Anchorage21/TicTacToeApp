@@ -1,0 +1,5 @@
+HumanWins:1
+ComputerWins:1
+PVPPlayer1Wins:2
+PVPPlayer2Wins:0
+Draws:5
