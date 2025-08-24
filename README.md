@@ -132,7 +132,7 @@ msbuild TicTacToe.sln
 - **单鹏安** - 初始工作 - [Spa050816](https://github.com/Spa050816)
 - **戴彻饶** - 增加对局记录 - [Anchorage21](https://github.com/Anchorage21)
 - **薛煜川** -  - 增加玩家对战[15035405096](https://github.com/15035405096)
-- **靳翔** -  - []()
+- **靳翔** - 增加计时器 - [jinx-05](https://github.com/jinx-05)
 
 ## 致谢
 
@@ -144,4 +144,5 @@ msbuild TicTacToe.sln
 
 
 如有问题或建议，请提交Issue或联系开发者。
+
 
